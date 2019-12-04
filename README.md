@@ -1,4 +1,4 @@
-# thebenjaneer - Color Schemes
+# Color Schemes
 
 # Blue-Biss
 
